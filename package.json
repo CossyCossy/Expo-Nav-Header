@@ -1,0 +1,27 @@
+{
+  "name": "@crunch-garage/nav-header",
+  "version": "1.0.0",
+  "description": "this is a custom top navigation bar for react native applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CossyCossy/Expo-Nav-Header.git"
+  },
+  "keywords": [
+    "navheader",
+    "react-native",
+    "react",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": "Cosmas Mbuvi <saxonmuti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CossyCossy/Expo-Nav-Header/issues"
+  },
+  "homepage": "https://github.com/CossyCossy/Expo-Nav-Header#readme"
+}
